@@ -28,12 +28,12 @@ function Home() {
               </a>
             </li>
             <li className="bg-gray-200 hover:bg-gray-100 text-gray-600 hover:text-red-400 border[0.4px] border-gray-400 shadow-sm shadow-gray-600 p-1 rounded-xl transition-colors duration-50">
-              <a href="https://github.com/emretokk">
+              <a href="https://www.instagram.com/emre.t0k/">
                 <FaInstagram className="w-10 h-10"></FaInstagram>
               </a>
             </li>
             <li className="bg-gray-200 hover:bg-gray-100 text-gray-600 hover:text-red-400 border[0.4px] border-gray-400 shadow-sm shadow-gray-600 p-1 rounded-xl transition-colors duration-50">
-              <a href="https://github.com/emretokk">
+              <a href="https://twitter.com/emre_t0k">
                 <FaTwitter className="w-10 h-10"></FaTwitter>
               </a>
             </li>
